@@ -99,6 +99,187 @@ At the **central** **railway** **station**, Alex **was** **overwhelmed** by the 
 43. **baggage** /ˈbæɡɪdʒ/ - 行李，包袱
 44. **maps** /mæps/ - 地图，图表
 
+### 详细词汇表 (Detailed Vocabulary List)
+| 序号 | 单词           | 词性   | 音标                | 中文释义     | 四级级别 | 记忆提示 |
+|------|----------------|--------|---------------------|--------------|----------|----------|
+| 1    | departure      | n.     | /dɪˈpɑːtʃə/         | 出发，离开   | ⭐⭐⭐    | depart(离开) + -ure(名词后缀) |
+| 2    | luggage        | n.     | /ˈlʌɡɪdʒ/           | 行李         | ⭐⭐⭐    | 联想：luggage → 旅行物品 |
+| 3    | suitcase       | n.     | /ˈsuːtkeɪs/         | 手提箱       | ⭐⭐⭐    | suit(西装) + case(箱子) |
+| 4    | train          | n.     | /treɪn/             | 火车         | ⭐⭐⭐    | 联想：train → 交通工具 |
+| 5    | station        | n.     | /ˈsteɪʃən/          | 车站         | ⭐⭐⭐    | 联想：station → 停靠点 |
+| 6    | passengers     | n.     | /ˈpæsɪndʒəz/        | 乘客         | ⭐⭐⭐    | passenger(乘客)的复数 |
+| 7    | platform       | n.     | /ˈplætfɔːm/         | 站台         | ⭐⭐⭐    | 联想：platform → 站立的地方 |
+| 8    | journey        | n.     | /ˈdʒɜːni/           | 旅程         | ⭐⭐⭐    | 联想：journey → travel旅行 |
+| 9    | subway         | n.     | /ˈsʌbweɪ/           | 地铁         | ⭐⭐⭐    | sub-(下) + way(路) |
+| 10   | transportation | n.     | /ˌtrænspɔːˈteɪʃən/  | 交通运输     | ⭐⭐⭐    | transport(运输) + -ation(名词后缀) |
+| 11   | capital        | n.     | /ˈkæpɪtəl/          | 首都         | ⭐⭐⭐    | 联想：capital → 城市中心 |
+| 12   | city           | n.     | /ˈsɪti/             | 城市         | ⭐⭐⭐    | 联想：city → 都市 |
+| 13   | urban          | adj.   | /ˈɜːbən/            | 城市的       | ⭐⭐⭐    | 联想：urban → 城市 |
+| 14   | metropolitan   | adj.   | /ˌmetrəˈpɒlɪtən/    | 大都市的     | ⭐⭐⭐    | metropolis(大都市) + -an(形容词后缀) |
+| 15   | buildings      | n.     | /ˈbɪldɪŋz/           | 建筑物       | ⭐⭐⭐    | building(建筑物)的复数 |
+| 16   | traffic        | n.     | /ˈtræfɪk/            | 交通         | ⭐⭐⭐    | 联想：traffic → 车辆流动 |
+| 17   | complex        | adj.   | /ˈkɒmpleks/          | 复杂的       | ⭐⭐⭐    | 联想：complex → 结构复杂 |
+| 18   | electronic     | adj.   | /ɪˌlekˈtrɒnɪk/      | 电子的       | ⭐⭐⭐    | electron(电子) + -ic(形容词后缀) |
+| 19   | escalators     | n.     | /ˈeskəleɪtəz/        | 自动扶梯     | ⭐⭐⭐    | escalator(自动扶梯)的复数 |
+| 20   | corridors      | n.     | /ˈkɒrɪdɔːz/          | 走廊，通道   | ⭐⭐⭐    | corridor(走廊)的复数 |
+| 21   | university     | n.     | /ˌjuːnɪˈvɜːsɪti/    | 大学         | ⭐⭐⭐    | 联想：universe(宇宙) + -ity(名词后缀) |
+| 22   | campus         | n.     | /ˈkæmpəs/            | 校园         | ⭐⭐⭐    | 联想：campus → 学校区域 |
+| 23   | academic       | adj.   | /ˌækəˈdemɪk/         | 学术的       | ⭐⭐⭐    | academy(学院) + -ic(形容词后缀) |
+| 24   | libraries      | n.     | /ˈlaɪbrəriz/         | 图书馆       | ⭐⭐⭐    | library(图书馆)的复数 |
+| 25   | dormitories    | n.     | /ˈdɔːmɪtriz/         | 宿舍         | ⭐⭐⭐    | dormitory(宿舍)的复数 |
+| 26   | facilities     | n.     | /fəˈsɪlətiz/         | 设施         | ⭐⭐⭐    | facility(设施)的复数 |
+| 27   | sports         | n.     | /spɔːts/             | 运动         | ⭐⭐⭐    | sport(运动)的复数 |
+| 28   | students       | n.     | /ˈstuːdənts/         | 学生         | ⭐⭐⭐    | student(学生)的复数 |
+| 29   | countryside    | n.     | /ˈkʌntrisaɪd/        | 乡村         | ⭐⭐⭐    | country(国家) + side(边) |
+| 30   | suburbs        | n.     | /ˈsʌbɜːbz/           | 郊区         | ⭐⭐⭐    | suburb(郊区)的复数 |
+| 31   | landscape      | n.     | /ˈlændskeɪp/         | 风景         | ⭐⭐⭐    | 联想：land(土地) + scape(景色) |
+| 32   | breathtaking   | adj.   | /ˈbreθˌteɪkɪŋ/       | 令人惊叹的   | ⭐⭐⭐    | breath(呼吸) + taking(夺人) |
+| 33   | gardens        | n.     | /ˈɡɑːrdənz/          | 花园         | ⭐⭐⭐    | garden(花园)的复数 |
+| 34   | glass          | n.     | /ɡlæs/               | 玻璃         | ⭐⭐⭐    | 联想：glass → 材料 |
+| 35   | walls          | n.     | /wɔːlz/              | 墙壁         | ⭐⭐⭐    | wall(墙壁)的复数 |
+| 36   | housed         | v.     | /haʊzd/              | 容纳         | ⭐⭐⭐    | house(房子)的过去分词 |
+| 37   | nation         | n.     | /ˈneɪʃən/            | 国家         | ⭐⭐⭐    | 联想：nation → 国家 |
+| 38   | directions     | n.     | /daɪˈrekʃənz/        | 指示         | ⭐⭐⭐    | direction(方向)的复数 |
+| 39   | underground    | adj.   | /ˌʌndəˈɡraʊnd/       | 地下的       | ⭐⭐⭐    | under(下) + ground(地面) |
+| 40   | efficient      | adj.   | /ɪˈfɪʃənt/           | 高效的       | ⭐⭐⭐    | 联想：efficient → 效率 |
+| 41   | confusing      | adj.   | /kənˈfjuːzɪŋ/        | 令人困惑的   | ⭐⭐⭐    | confuse(困惑)的现在分词 |
+| 42   | colored        | adj.   | /ˈkʌləd/             | 彩色的       | ⭐⭐⭐    | color(颜色)的过去分词 |
+| 43   | maps           | n.     | /mæps/               | 地图         | ⭐⭐⭐    | map(地图)的复数 |
+| 44   | stops          | n.     | /stɒps/              | 站点         | ⭐⭐⭐    | stop(停止)的复数 |
+| 45   | station        | n.     | /ˈsteɪʃən/           | 车站         | ⭐⭐⭐    | 联想：station → 停靠点 |
+| 46   | transfers      | n.     | /ˈtrænsfɜːz/         | 换乘         | ⭐⭐⭐    | transfer(换乘)的复数 |
+| 47   | emerged        | v.     | /ɪˈmɜːdʒd/           | 出现         | ⭐⭐⭐    | emerge(出现)的过去式 |
+| 48   | beautiful      | adj.   | /ˈbjuːtɪfl/          | 美丽的       | ⭐⭐⭐    | beauty(美) + -ful(形容词后缀) |
+| 49   | thousands      | n.     | /ˈθaʊzəndz/          | 数千         | ⭐⭐⭐    | thousand(千)的复数 |
+| 50   | across         | prep.  | /əˈkrɒs/             | 横跨，遍及   | ⭐⭐⭐    | 联想：across → 穿越 |
+| 51   | belongings      | n.     | /bɪˈlɒŋɪŋz/           | 个人物品     | ⭐⭐⭐    | belong(属于) + -ings(名词后缀) |
+| 52   | carefully       | adv.   | /ˈkeəfəli/            | 仔细地       | ⭐⭐⭐    | careful(小心的) + -ly(副词后缀) |
+| 53   | homemade        | adj.   | /ˌhəʊmˈmeɪd/          | 自制的       | ⭐⭐⭐    | home(家) + made(制作) |
+| 54   | cookies         | n.     | /ˈkʊkiz/              | 饼干         | ⭐⭐⭐    | cookie(饼干)的复数 |
+| 55   | dried           | adj.   | /draɪd/               | 干的         | ⭐⭐⭐    | dry(干的)的过去分词 |
+| 56   | fruits          | n.     | /fruːts/              | 水果         | ⭐⭐⭐    | fruit(水果)的复数 |
+| 57   | wallet          | n.     | /ˈwɒlɪt/              | 钱包         | ⭐⭐⭐    | 联想：wallet → 钱物收纳 |
+| 58   | leather         | n.     | /ˈleðə(r)/            | 皮革         | ⭐⭐⭐    | 联想：leather → 材料 |
+| 59   | generations     | n.     | /ˌdʒenəˈreɪʃənz/      | 世代         | ⭐⭐⭐    | generation(一代)的复数 |
+| 60   | crowded         | adj.   | /ˈkraʊdɪd/            | 拥挤的       | ⭐⭐⭐    | crowd(人群)的过去分词 |
+| 61   | baggage         | n.     | /ˈbæɡɪdʒ/             | 行李         | ⭐⭐⭐    | 联想：baggage → 旅行物品 |
+| 62   | observed        | v.     | /əbˈzɜːvd/            | 观察         | ⭐⭐⭐    | observe(观察)的过去式 |
+| 63   | busy            | adj.   | /ˈbɪzi/               | 忙碌的       | ⭐⭐⭐    | 联想：busy → 活动多 |
+| 64   | business        | n.     | /ˈbɪznəs/             | 商务         | ⭐⭐⭐    | 联想：business → 工作 |
+| 65   | formal          | adj.   | /ˈfɔːml/              | 正式的       | ⭐⭐⭐    | 联想：formal → 规范 |
+| 66   | suits           | n.     | /suːts/               | 西装         | ⭐⭐⭐    | suit(西装)的复数 |
+| 67   | families        | n.     | /ˈfæmɪliz/            | 家庭         | ⭐⭐⭐    | family(家庭)的复数 |
+| 68   | traveling       | v.     | /ˈtrævəlɪŋ/           | 旅行         | ⭐⭐⭐    | travel(旅行)的现在分词 |
+| 69   | together        | adv.   | /təˈɡɛðər/            | 一起         | ⭐⭐⭐    | 联想：together → 共同行动 |
+| 70   | announcements   | n.     | /əˈnaʊnsmənts/        | 广播，公告   | ⭐⭐⭐    | announce(宣布)的复数 |
+| 71   | conversations   | n.     | /ˌkɒnvəˈseɪʃənz/      | 对话         | ⭐⭐⭐    | conversation(对话)的复数 |
+| 72   | sound           | n.     | /saʊnd/               | 声音         | ⭐⭐⭐    | 联想：sound → 听觉 |
+| 73   | arriving        | v.     | /əˈraɪvɪŋ/            | 到达         | ⭐⭐⭐    | arrive(到达)的现在分词 |
+| 74   | departing       | v.     | /dɪˈpɑːtɪŋ/           | 离开         | ⭐⭐⭐    | depart(离开)的现在分词 |
+| 75   | hugged          | v.     | /hʌɡd/                | 拥抱         | ⭐⭐⭐    | hug(拥抱)的过去式 |
+| 76   | tightly         | adv.   | /ˈtaɪtli/             | 紧紧地       | ⭐⭐⭐    | tight(紧的) + -ly(副词后缀) |
+| 77   | cried           | v.     | /kraɪd/               | 哭泣         | ⭐⭐⭐    | cry(哭)的过去式 |
+| 78   | promise         | v./n.  | /ˈprɒmɪs/             | 承诺         | ⭐⭐⭐    | 联想：promise → 保证 |
+| 79   | regularly       | adv.   | /ˈreɡjʊləli/          | 定期地       | ⭐⭐⭐    | regular(规律的) + -ly(副词后缀) |
+| 80   | forget          | v.     | /fəˈɡet/              | 忘记         | ⭐⭐⭐    | 联想：forget → 记忆 |
+| 81   | whispered       | v.     | /ˈwɪspəd/             | 低语         | ⭐⭐⭐    | whisper(低语)的过去式 |
+| 82   | assured         | v.     | /əˈʃʊəd/              | 保证         | ⭐⭐⭐    | assure(保证)的过去式 |
+| 83   | distance        | n.     | /ˈdɪstəns/            | 距离         | ⭐⭐⭐    | 联想：distance → 空间 |
+| 84   | weaken          | v.     | /ˈwiːkən/             | 削弱         | ⭐⭐⭐    | weak(弱的) + -en(动词后缀) |
+| 85   | bond            | n.     | /bɒnd/                | 纽带         | ⭐⭐⭐    | 联想：bond → 联系 |
+| 86   | lasted          | v.     | /ˈlɑːstɪd/            | 持续         | ⭐⭐⭐    | last(持续)的过去式 |
+| 87   | looking         | v.     | /ˈlʊkɪŋ/              | 看           | ⭐⭐⭐    | look(看)的现在分词 |
+| 88   | window          | n.     | /ˈwɪndəʊ/             | 窗户         | ⭐⭐⭐    | 联想：window → 观察外面 |
+| 89   | watching        | v.     | /ˈwɒtʃɪŋ/             | 观看         | ⭐⭐⭐    | watch(看)的现在分词 |
+| 90   | gradually       | adv.   | /ˈɡrædʒuəli/          | 逐渐地       | ⭐⭐⭐    | gradual(逐渐的) + -ly(副词后缀) |
+| 91   | change          | n./v.  | /tʃeɪndʒ/             | 改变         | ⭐⭐⭐    | 联想：change → 变化 |
+| 92   | rural           | adj.   | /ˈrʊərəl/             | 农村的       | ⭐⭐⭐    | 联想：rural → 乡村 |
+| 93   | towns           | n.     | /taʊnz/               | 城镇         | ⭐⭐⭐    | town(城镇)的复数 |
+| 94   | massive         | adj.   | /ˈmæsɪv/              | 巨大的       | ⭐⭐⭐    | mass(大量) + -ive(形容词后缀) |
+| 95   | metropolitan    | adj.   | /ˌmetrəˈpɒlɪtən/      | 大都市的     | ⭐⭐⭐    | metropolis(大都市) + -an(形容词后缀) |
+| 96   | area            | n.     | /ˈeəriə/              | 区域         | ⭐⭐⭐    | 联想：area → 地区 |
+| 97   | approached      | v.     | /əˈprəʊtʃt/           | 接近         | ⭐⭐⭐    | approach(接近)的过去式 |
+| 98   | destination     | n.     | /ˌdestɪˈneɪʃən/      | 目的地       | ⭐⭐⭐    | destiny(命运) + -ation(名词后缀) |
+| 99   | heart           | n.     | /hɑːt/                | 心脏，中心   | ⭐⭐⭐    | 联想：heart → 中心 |
+| 100  | beating         | v.     | /ˈbiːtɪŋ/             | 跳动         | ⭐⭐⭐    | beat(跳动)的现在分词 |
+| 101  | appeared        | v.     | /əˈpɪəd/              | 出现         | ⭐⭐⭐    | appear(出现)的过去式 |
+| 102  | enormous        | adj.   | /ɪˈnɔːməs/            | 巨大的       | ⭐⭐⭐    | 联想：enormous → 规模大 |
+| 103  | compared        | v.     | /kəmˈpeəd/             | 比较         | ⭐⭐⭐    | compare(比较)的过去式 |
+| 104  | quiet           | adj.   | /ˈkwaɪət/             | 安静的       | ⭐⭐⭐    | 联想：quiet → 沉默 |
+| 105  | stretched       | v.     | /stretʃt/             | 延伸         | ⭐⭐⭐    | stretch(延伸)的过去式 |
+| 106  | sky             | n.     | /skaɪ/                | 天空         | ⭐⭐⭐    | 联想：sky → 自然 |
+| 107  | traffic         | n.     | /ˈtræfɪk/             | 交通         | ⭐⭐⭐    | 联想：traffic → 车辆流动 |
+| 108  | complex         | adj.   | /ˈkɒmpleks/           | 复杂的       | ⭐⭐⭐    | 联想：complex → 结构复杂 |
+| 109  | patterns        | n.     | /ˈpætənz/             | 模式         | ⭐⭐⭐    | pattern(模式)的复数 |
+| 110  | millions        | n.     | /ˈmɪljənz/            | 数百万       | ⭐⭐⭐    | million(百万)的复数 |
+| 111  | constantly      | adv.   | /ˈkɒnstəntli/         | 不断地       | ⭐⭐⭐    | constant(持续的) + -ly(副词后缀) |
+| 112  | motion          | n.     | /ˈməʊʃən/             | 运动         | ⭐⭐⭐    | 联想：motion → 移动 |
+| 113  | central         | adj.   | /ˈsentrəl/            | 中央的       | ⭐⭐⭐    | center(中心) + -al(形容词后缀) |
+| 114  | railway         | n.     | /ˈreɪlweɪ/            | 铁路         | ⭐⭐⭐    | rail(轨道) + way(路) |
+| 115  | overwhelmed     | v.     | /ˌəʊvəˈwelmd/         | 压倒         | ⭐⭐⭐    | overwhelm(压倒)的过去分词 |
+| 116  | sheer           | adj.   | /ʃɪə(r)/              | 纯粹的       | ⭐⭐⭐    | 联想：sheer → 完全 |
+| 117  | size            | n.     | /saɪz/                | 规模，大小   | ⭐⭐⭐    | 联想：size → 尺寸 |
+| 118  | complexity      | n.     | /kəmˈpleksəti/        | 复杂性       | ⭐⭐⭐    | complex(复杂的) + -ity(名词后缀) |
+| 119  | escalators      | n.     | /ˈeskəleɪtəz/         | 自动扶梯     | ⭐⭐⭐    | escalator(自动扶梯)的复数 |
+| 120  | electronic      | adj.   | /ɪˌlekˈtrɒnɪk/       | 电子的       | ⭐⭐⭐    | electron(电子) + -ic(形容词后缀) |
+| 121  | signs           | n.     | /saɪnz/               | 标志         | ⭐⭐⭐    | sign(标志)的复数 |
+| 122  | displayed       | v.     | /dɪˈspleɪd/           | 显示         | ⭐⭐⭐    | display(显示)的过去式 |
+| 123  | information     | n.     | /ˌɪnfəˈmeɪʃən/       | 信息         | ⭐⭐⭐    | inform(通知) + -ation(名词后缀) |
+| 124  | languages       | n.     | /ˈlæŋɡwɪdʒɪz/         | 语言         | ⭐⭐⭐    | language(语言)的复数 |
+| 125  | shops           | n.     | /ʃɒps/                | 商店         | ⭐⭐⭐    | shop(商店)的复数 |
+| 126  | restaurants     | n.     | /ˈrestrɒnts/          | 餐厅         | ⭐⭐⭐    | restaurant(餐厅)的复数 |
+| 127  | lined           | v.     | /laɪnd/               | 排列         | ⭐⭐⭐    | line(线)的过去分词 |
+| 128  | corridors       | n.     | /ˈkɒrɪdɔːz/           | 走廊         | ⭐⭐⭐    | corridor(走廊)的复数 |
+| 129  | noise           | n.     | /nɔɪz/                | 噪音         | ⭐⭐⭐    | 联想：noise → 声音 |
+| 130  | level           | n.     | /ˈlevl/               | 水平，程度   | ⭐⭐⭐    | 联想：level → 层次 |
+| 131  | incredible      | adj.   | /ɪnˈkrɛdəbl/          | 难以置信的   | ⭐⭐⭐    | in-(否定) + credible(可信的) |
+| 132  | footsteps       | n.     | /ˈfʊtsteps/           | 脚步声       | ⭐⭐⭐    | foot(脚) + step(步) |
+| 133  | voices          | n.     | /ˈvɔɪsɪz/             | 声音         | ⭐⭐⭐    | voice(声音)的复数 |
+| 134  | machinery       | n.     | /məˈʃiːnəri/          | 机械         | ⭐⭐⭐    | machine(机器) + -ery(名词后缀) |
+| 135  | transportation  | n.     | /ˌtrænspɔːˈteɪʃən/   | 交通运输     | ⭐⭐⭐    | transport(运输) + -ation(名词后缀) |
+| 136  | following       | v.     | /ˈfɒləʊɪŋ/            | 跟随         | ⭐⭐⭐    | follow(跟随)的现在分词 |
+| 137  | directions      | n.     | /daɪˈrekʃənz/         | 指示         | ⭐⭐⭐    | direction(方向)的复数 |
+| 138  | provided        | v.     | /prəˈvaɪdɪd/          | 提供         | ⭐⭐⭐    | provide(提供)的过去分词 |
+| 139  | university      | n.     | /ˌjuːnɪˈvɜːsɪti/     | 大学         | ⭐⭐⭐    | 联想：universe(宇宙) + -ity(名词后缀) |
+| 140  | subway          | n.     | /ˈsʌbweɪ/             | 地铁         | ⭐⭐⭐    | sub-(下) + way(路) |
+| 141  | reach           | v.     | /riːtʃ/               | 到达         | ⭐⭐⭐    | 联想：reach → 目的地 |
+| 142  | campus          | n.     | /ˈkæmpəs/             | 校园         | ⭐⭐⭐    | 联想：campus → 学校区域 |
+| 143  | underground     | adj.   | /ˌʌndəˈɡraʊnd/        | 地下的       | ⭐⭐⭐    | under(下) + ground(地面) |
+| 144  | system          | n.     | /ˈsɪstəm/             | 系统         | ⭐⭐⭐    | 联想：system → 结构 |
+| 145  | efficient       | adj.   | /ɪˈfɪʃənt/            | 高效的       | ⭐⭐⭐    | 联想：efficient → 效率 |
+| 146  | confusing       | adj.   | /kənˈfjuːzɪŋ/         | 令人困惑的   | ⭐⭐⭐    | confuse(困惑)的现在分词 |
+| 147  | unfamiliar      | adj.   | /ˌʌnfəˈmɪliər/        | 不熟悉的     | ⭐⭐⭐    | un-(否定) + familiar(熟悉的) |
+| 148  | studied         | v.     | /ˈstʌdid/             | 学习         | ⭐⭐⭐    | study(学习)的过去式 |
+| 149  | colored         | adj.   | /ˈkʌləd/              | 彩色的       | ⭐⭐⭐    | color(颜色)的过去分词 |
+| 150  | maps            | n.     | /mæps/                | 地图         | ⭐⭐⭐    | map(地图)的复数 |
+| 151  | carefully       | adv.   | /ˈkeəfəli/            | 仔细地       | ⭐⭐⭐    | careful(小心的) + -ly(副词后缀) |
+| 152  | counting        | v.     | /ˈkaʊntɪŋ/            | 数数         | ⭐⭐⭐    | count(数)的现在分词 |
+| 153  | stops           | n.     | /stɒps/               | 站点         | ⭐⭐⭐    | stop(停止)的复数 |
+| 154  | paying          | v.     | /ˈpeɪɪŋ/              | 注意         | ⭐⭐⭐    | pay(支付/注意)的现在分词 |
+| 155  | attention       | n.     | /əˈtenʃən/            | 注意力       | ⭐⭐⭐    | 联想：attention → 集中 |
+| 156  | station         | n.     | /ˈsteɪʃən/            | 车站         | ⭐⭐⭐    | 联想：station → 停靠点 |
+| 157  | names           | n.     | /neɪmz/               | 名称         | ⭐⭐⭐    | name(名称)的复数 |
+| 158  | transfers       | n.     | /ˈtrænsfɜːz/          | 换乘         | ⭐⭐⭐    | transfer(换乘)的复数 |
+| 159  | wrong           | adj.   | /rɒŋ/                 | 错误的       | ⭐⭐⭐    | 联想：wrong → 不正确 |
+| 160  | turns           | n.     | /tɜːnz/               | 转弯         | ⭐⭐⭐    | turn(转弯)的复数 |
+| 161  | finally         | adv.   | /ˈfaɪnəli/            | 最终         | ⭐⭐⭐    | final(最后的) + -ly(副词后缀) |
+| 162  | emerged         | v.     | /ɪˈmɜːdʒd/            | 出现         | ⭐⭐⭐    | emerge(出现)的过去式 |
+| 163  | near            | prep.  | /nɪə(r)/              | 靠近         | ⭐⭐⭐    | 联想：near → 距离 |
+| 164  | breathtaking    | adj.   | /ˈbreθˌteɪkɪŋ/        | 令人惊叹的   | ⭐⭐⭐    | breath(呼吸) + taking(夺人) |
+| 165  | surrounded      | v.     | /səˈraʊndɪd/           | 包围         | ⭐⭐⭐    | surround(包围)的过去分词 |
+| 166  | beautiful       | adj.   | /ˈbjuːtɪfl/           | 美丽的       | ⭐⭐⭐    | beauty(美) + -ful(形容词后缀) |
+| 167  | gardens         | n.     | /ˈɡɑːrdənz/           | 花园         | ⭐⭐⭐    | garden(花园)的复数 |
+| 168  | libraries       | n.     | /ˈlaɪbrəriz/          | 图书馆       | ⭐⭐⭐    | library(图书馆)的复数 |
+| 169  | glass           | n.     | /ɡlæs/                | 玻璃         | ⭐⭐⭐    | 联想：glass → 材料 |
+| 170  | walls           | n.     | /wɔːlz/               | 墙壁         | ⭐⭐⭐    | wall(墙壁)的复数 |
+| 171  | sports          | n.     | /spɔːts/              | 运动         | ⭐⭐⭐    | sport(运动)的复数 |
+| 172  | facilities      | n.     | /fəˈsɪlətiz/          | 设施         | ⭐⭐⭐    | facility(设施)的复数 |
+| 173  | dormitories     | n.     | /ˈdɔːmɪtriz/          | 宿舍         | ⭐⭐⭐    | dormitory(宿舍)的复数 |
+| 174  | housed          | v.     | /haʊzd/               | 容纳         | ⭐⭐⭐    | house(房子)的过去分词 |
+| 175  | thousands       | n.     | /ˈθaʊzəndz/           | 数千         | ⭐⭐⭐    | thousand(千)的复数 |
+| 176  | across          | prep.  | /əˈkrɒs/              | 横跨，遍及   | ⭐⭐⭐    | 联想：across → 穿越 |
+| 177  | nation          | n.     | /ˈneɪʃən/             | 国家         | ⭐⭐⭐    | 联想：nation → 国家 |
+
 ## Grammar Focus (语法重点)
 
 ### 1. 过去进行时的运用
@@ -115,12 +296,6 @@ At the **central** **railway** **station**, Alex **was** **overwhelmed** by the 
 
 ### 4. 地点状语从句
 - **where, when, after** - 表示地点和时间关系
-
-## Word Count Progress (词汇进度统计)
-- **Words introduced in Chapter 4**: ~130 CET-4 words
-- **Cumulative words used**: ~555 words  
-- **Remaining words**: ~5,753 words
-- **Progress**: 8.8% complete
 
 ## Next Chapter Preview (下章预告)
 In Chapter 5, we will follow Alex as he settles into dormitory life, meets his roommates, and begins to adapt to university culture. We will explore vocabulary related to friendship, daily routines, study habits, and social interactions.

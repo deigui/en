@@ -58,46 +58,364 @@ Alex**不敢相信**自己的**眼睛**。他**读了****三遍**这封**信**�
 他的**父母****流下**了**幸福**的**眼泪**，而Emma**兴奋地****上下跳跃**。**邻居们****听到**了**庆祝声**，**前来****祝贺**。**整个村庄**都为Alex的**成就**感到**骄傲**。
 
 ## Vocabulary Highlights (词汇重点)
+### 核心词汇统计
+- **总词汇数**: 135个CET-4词汇
 ### 详细词汇表 (Detailed Vocabulary List)
 | 序号 | 单词           | 词性   | 音标                | 中文释义     | 四级级别 | 记忆提示 |
 |------|----------------|--------|---------------------|--------------|----------|----------|
 1 | examination    | n.     | /ɪɡˌzæmɪˈneɪʃən/   | 考试         | CET-4    | exam + ination (名词后缀) |
-### Key Words Used in This Chapter (本章使用的关键词汇):
-1. **anticipated** /ænˈtɪsɪpeɪtɪd/ - 预期的
-2. **intensive** /ɪnˈtensɪv/ - 密集的
-3. **provincial** /prəˈvɪnʃəl/ - 省的
-4. **massive** /ˈmæsɪv/ - 巨大的
-5. **gathered** /ˈɡæðəd/ - 聚集
-6. **various** /ˈveəriəs/ - 各种各样的
-7. **modest** /ˈmɒdɪst/ - 朴素的
-8. **possessions** /pəˈzeʃənz/ - 财产
-9. **methodically** /mɪˈθɒdɪkli/ - 有条不紊地
-10. **techniques** /tekˈniːks/ - 技巧
-11. **straightforward** /ˌstreɪtˈfɔːwəd/ - 简单直接的
-12. **candidates** /ˈkændɪdeɪts/ - 候选人
-13. **portion** /ˈpɔːʃən/ - 部分
-14. **expanded** /ɪkˈspændɪd/ - 扩展的
-15. **anthropology** /ˌænθrəˈpɒlədʒi/ - 人类学
-16. **sustainable** /səˈsteɪnəbəl/ - 可持续的
-17. **cooperation** /kəʊˌɒpəˈreɪʃən/ - 合作
-18. **systematically** /ˌsɪstəˈmætɪkli/ - 系统地
-19. **uncertainty** /ʌnˈsɜːtənti/ - 不确定性
-20. **prestigious** /preˈstɪdʒəs/ - 著名的
+2 | arrived         | v.     | /əˈraɪvd/            | 到达         | ⭐⭐⭐    | arrive(到达)的过去式 |
+3 | anticipated     | v.     | /ænˈtɪsɪpeɪtɪd/      | 预期         | ⭐⭐⭐    | anticipate(预期)的过去式 |
+4 | despite         | prep.  | /dɪˈspaɪt/           | 尽管         | ⭐⭐⭐    | 联想：despite → 虽然 |
+5 | intensive       | adj.   | /ɪnˈtensɪv/          | 密集的       | ⭐⭐⭐    | intense(强烈的) + -ive(形容词后缀) |
+6 | preparation     | n.     | /ˌprepəˈreɪʃən/      | 准备         | ⭐⭐⭐    | prepare(准备) + -ation(名词后缀) |
+7 | butterflies     | n.     | /ˈbʌtəflaɪz/         | 紧张不安（习语） | ⭐⭐⭐    | butterfly(蝴蝶)，习语表示紧张 |
+8 | stomach         | n.     | /ˈstʌmək/            | 胃           | ⭐⭐⭐    | 联想：stomach → 身体部位 |
+9 | traveled        | v.     | /ˈtrævəld/           | 旅行         | ⭐⭐⭐    | travel(旅行)的过去式 |
+10 | provincial      | adj.   | /prəˈvɪnʃəl/         | 省的         | ⭐⭐⭐    | province(省) + -ial(形容词后缀) |
+11 | capital         | n.     | /ˈkæpɪtl/            | 首都         | ⭐⭐⭐    | 联想：capital → 城市中心 |
+12 | massive         | adj.   | /ˈmæsɪv/             | 巨大的       | ⭐⭐⭐    | mass(大量) + -ive(形容词后缀) |
+13 | modern          | adj.   | /ˈmɒdn/              | 现代的       | ⭐⭐⭐    | 联想：modern → 新时代 |
+14 | located         | v.     | /ləʊˈkeɪtɪd/         | 位于         | ⭐⭐⭐    | locate(定位)的过去分词 |
+15 | heart           | n.     | /hɑːt/               | 心脏，中心   | ⭐⭐⭐    | 联想：heart → 中心 |
+16 | gathered        | v.     | /ˈɡæðəd/              | 聚集         | ⭐⭐⭐    | gather(聚集)的过去式 |
+17 | nervous         | adj.   | /ˈnɜːvəs/            | 紧张的       | ⭐⭐⭐    | nerve(神经) + -ous(形容词后缀) |
+18 | hopes           | n.     | /hoʊps/               | 希望         | ⭐⭐⭐    | hope(希望)的复数 |
+19 | dreams          | n.     | /driːmz/              | 梦想         | ⭐⭐⭐    | dream(梦想)的复数 |
+20 | calculators     | n.     | /ˈkælkjuleɪtərz/      | 计算器       | ⭐⭐⭐    | calculate(计算) + -or(名词后缀) |
+21 | observed        | v.     | /əbˈzɜːvd/            | 观察         | ⭐⭐⭐    | observe(观察)的过去式 |
+22 | noticed         | v.     | /ˈnəʊtɪst/            | 注意到       | ⭐⭐⭐    | notice(注意)的过去式 |
+23 | various         | adj.   | /ˈveəriəs/            | 各种各样的   | ⭐⭐⭐    | vary(变化) + -ous(形容词后缀) |
+24 | backgrounds     | n.     | /ˈbækɡraʊndz/         | 背景         | ⭐⭐⭐    | background(背景)的复数 |
+25 | expensive       | adj.   | /ɪkˈspensɪv/          | 昂贵的       | ⭐⭐⭐    | expense(费用) + -ive(形容词后缀) |
+26 | branded         | adj.   | /ˈbrændɪd/            | 名牌的       | ⭐⭐⭐    | brand(品牌)的过去分词 |
+27 | modest          | adj.   | /ˈmɒdɪst/             | 朴素的       | ⭐⭐⭐    | 联想：modest → 谦虚 |
+28 | judge           | v.     | /dʒʌdʒ/               | 判断         | ⭐⭐⭐    | 联想：judge → 法官 |
+29 | appearance      | n.     | /əˈpɪərəns/           | 外表         | ⭐⭐⭐    | appear(出现) + -ance(名词后缀) |
+30 | intelligence    | n.     | /ɪnˈtelɪdʒəns/        | 智慧         | ⭐⭐⭐    | intelligent(聪明的) + -ence(名词后缀) |
+31 | matter          | v./n.  | /ˈmætər/              | 重要，事情   | ⭐⭐⭐    | 联想：matter → 重要性 |
+32 | possessions     | n.     | /pəˈzeʃənz/           | 财产         | ⭐⭐⭐    | possess(拥有) + -ion(名词后缀) |
+33 | section         | n.     | /ˈsekʃən/             | 部分         | ⭐⭐⭐    | 联想：section → 分段 |
+34 | exam            | n.     | /ɪɡˈzæm/              | 考试         | ⭐⭐⭐    | exam(考试)缩写 |
+35 | approached      | v.     | /əˈprəʊtʃt/           | 接近，处理   | ⭐⭐⭐    | approach(接近)的过去式 |
+36 | problem         | n.     | /ˈprɒbləm/            | 问题         | ⭐⭐⭐    | 联想：problem → 难题 |
+37 | methodically    | adv.   | /mɪˈθɒdɪkli/          | 有条不紊地   | ⭐⭐⭐    | method(方法) + -ically(副词后缀) |
+38 | applying        | v.     | /əˈplaɪɪŋ/            | 应用         | ⭐⭐⭐    | apply(应用)的现在分词 |
+39 | techniques      | n.     | /tekˈniːks/           | 技巧         | ⭐⭐⭐    | technique(技巧)的复数 |
+40 | practiced       | v.     | /ˈpræktɪst/           | 练习         | ⭐⭐⭐    | practice(练习)的过去式 |
+41 | countless       | adj.   | /ˈkaʊntləs/           | 无数的       | ⭐⭐⭐    | count(计数) + -less(无) |
+42 | straightforward | adj.   | /ˌstreɪtˈfɔːwəd/      | 简单直接的   | ⭐⭐⭐    | straight(直) + forward(向前) |
+43 | required        | v.     | /rɪˈkwaɪəd/           | 需要         | ⭐⭐⭐    | require(需要)的过去分词 |
+44 | creative        | adj.   | /kriˈeɪtɪv/           | 有创造力的   | ⭐⭐⭐    | create(创造) + -ive(形容词后缀) |
+45 | managed         | v.     | /ˈmænɪdʒd/            | 管理         | ⭐⭐⭐    | manage(管理)的过去式 |
+46 | ensuring        | v.     | /ɪnˈʃʊərɪŋ/           | 确保         | ⭐⭐⭐    | ensure(确保)的现在分词 |
+47 | spend           | v.     | /spend/               | 花费         | ⭐⭐⭐    | 联想：spend → 时间/金钱 |
+48 | single          | adj.   | /ˈsɪŋɡl/              | 单一的       | ⭐⭐⭐    | 联想：single → 一个 |
+49 | break           | n./v.  | /breɪk/               | 休息，打破   | ⭐⭐⭐    | 联想：break → 休息/破裂 |
+50 | sections        | n.     | /ˈsekʃənz/            | 部分         | ⭐⭐⭐    | section(部分)的复数 |
+51 | conversations    | n.     | /ˌkɒnvəˈseɪʃənz/      | 对话，交流     | ⭐⭐⭐    | conversation(对话)的复数 |
+52 | candidates       | n.     | /ˈkændɪdeɪts/         | 候选人，考生   | ⭐⭐⭐    | candidate(候选人)的复数 |
+53 | complained       | v.     | /kəmˈpleɪnd/          | 抱怨           | ⭐⭐⭐    | complain(抱怨)的过去式 |
+54 | difficulty       | n.     | /ˈdɪfɪkəlti/          | 困难           | ⭐⭐⭐    | difficult(困难的) + -y(名词后缀) |
+55 | confident        | adj.   | /ˈkɒnfɪdənt/          | 自信的         | ⭐⭐⭐    | confidence(自信)的形容词 |
+56 | performance      | n.     | /pəˈfɔːməns/          | 表现，成绩     | ⭐⭐⭐    | perform(表演) + -ance(名词后缀) |
+57 | remain           | v.     | /rɪˈmeɪn/             | 保持，留下     | ⭐⭐⭐    | 联想：remain → 保持 |
+58 | quiet            | adj.   | /ˈkwaɪət/             | 安静的         | ⭐⭐⭐    | 联想：quiet → 沉默 |
+59 | focus            | v./n.  | /ˈfəʊkəs/             | 专注，焦点     | ⭐⭐⭐    | 联想：focus → 集中 |
+60 | preparing        | v.     | /prɪˈpeərɪŋ/          | 准备           | ⭐⭐⭐    | prepare(准备)的现在分词 |
+61 | mentally         | adv.   | /ˈmentəli/            | 心理上地       | ⭐⭐⭐    | mental(心理的) + -ly(副词后缀) |
+62 | portion          | n.     | /ˈpɔːʃən/             | 部分           | ⭐⭐⭐    | 联想：portion → 分配 |
+63 | challenging      | adj.   | /ˈtʃælɪndʒɪŋ/         | 有挑战性的     | ⭐⭐⭐    | challenge(挑战)的现在分词 |
+64 | manageable       | adj.   | /ˈmænɪdʒəbl/          | 可管理的       | ⭐⭐⭐    | manage(管理) + -able(形容词后缀) |
+65 | novels           | n.     | /ˈnɒvəlz/              | 小说           | ⭐⭐⭐    | novel(小说)的复数 |
+66 | newspapers       | n.     | /ˈnjuːzˌpeɪpərz/      | 报纸           | ⭐⭐⭐    | newspaper(报纸)的复数 |
+67 | academic         | adj.   | /ˌækəˈdemɪk/          | 学术的         | ⭐⭐⭐    | academy(学院) + -ic(形容词后缀) |
+68 | articles         | n.     | /ˈɑːtɪklz/            | 文章           | ⭐⭐⭐    | article(文章)的复数 |
+69 | expanded         | v.     | /ɪkˈspændɪd/           | 扩展           | ⭐⭐⭐    | expand(扩展)的过去式 |
+70 | significantly    | adv.   | /sɪɡˈnɪfɪkəntli/      | 显著地         | ⭐⭐⭐    | significant(重要的) + -ly(副词后缀) |
+71 | comprehension    | n.     | /ˌkɒmprɪˈhenʃən/      | 理解           | ⭐⭐⭐    | comprehend(理解) + -sion(名词后缀) |
+72 | passages         | n.     | /ˈpæsɪdʒɪz/           | 段落           | ⭐⭐⭐    | passage(段落)的复数 |
+73 | topics           | n.     | /ˈtɒpɪks/             | 主题           | ⭐⭐⭐    | topic(主题)的复数 |
+74 | ranging          | v.     | /ˈreɪndʒɪŋ/           | 范围，涉及     | ⭐⭐⭐    | range(范围)的现在分词 |
+75 | environmental    | adj.   | /ɪnˌvaɪrənˈmentl/     | 环境的         | ⭐⭐⭐    | environment(环境) + -al(形容词后缀) |
+76 | science          | n.     | /ˈsaɪəns/             | 科学           | ⭐⭐⭐    | 联想：science → 知识 |
+77 | cultural         | adj.   | /ˈkʌltʃərəl/          | 文化的         | ⭐⭐⭐    | culture(文化) + -al(形容词后缀) |
+78 | anthropology     | n.     | /ˌænθrəˈpɒlədʒi/      | 人类学         | ⭐⭐⭐    | 联想：anthropology → 人类 |
+79 | grateful         | adj.   | /ˈɡreɪtfəl/           | 感激的         | ⭐⭐⭐    | gratitude(感激) + -ful(形容词后缀) |
+80 | broad            | adj.   | /brɔːd/               | 广泛的         | ⭐⭐⭐    | 联想：broad → 宽广 |
+81 | habits           | n.     | /ˈhæbɪts/             | 习惯           | ⭐⭐⭐    | habit(习惯)的复数 |
+82 | writing          | n./v.  | /ˈraɪtɪŋ/             | 写作           | ⭐⭐⭐    | write(写)的现在分词 |
+83 | required         | v.     | /rɪˈkwaɪəd/           | 需要           | ⭐⭐⭐    | require(需要)的过去分词 |
+84 | compose          | v.     | /kəmˈpəʊz/            | 撰写，组成     | ⭐⭐⭐    | 联想：compose → 组合 |
+85 | essay            | n.     | /ˈeseɪ/               | 论文，短文     | ⭐⭐⭐    | 联想：essay → 写作 |
+86 | global           | adj.   | /ˈɡləʊbl/             | 全球的         | ⭐⭐⭐    | globe(地球) + -al(形容词后缀) |
+87 | climate          | n.     | /ˈklaɪmət/            | 气候           | ⭐⭐⭐    | 联想：climate → 天气 |
+88 | change           | n./v.  | /tʃeɪndʒ/             | 改变           | ⭐⭐⭐    | 联想：change → 变化 |
+89 | impact           | n./v.  | /ˈɪmpækt/             | 影响           | ⭐⭐⭐    | 联想：impact → 作用 |
+90 | future           | n.     | /ˈfjuːtʃər/           | 未来           | ⭐⭐⭐⭐⭐  | 联想：future → 后面的时间 |
+91 | generations      | n.     | /ˌdʒenəˈreɪʃənz/      | 世代           | ⭐⭐⭐    | generation(一代)的复数 |
+92 | drew             | v.     | /druː/                | 画，拉         | ⭐⭐⭐    | draw(画)的过去式 |
+93 | knowledge        | n.     | /ˈnɒlɪdʒ/             | 知识           | ⭐⭐⭐⭐⭐  | 联想：knowledge → 学问 |
+94 | issues           | n.     | /ˈɪʃuːz/              | 问题，议题     | ⭐⭐⭐    | issue(问题)的复数 |
+95 | personal         | adj.   | /ˈpɜːsənl/            | 个人的         | ⭐⭐⭐    | person(人) + -al(形容词后缀) |
+96 | observations     | n.     | /ˌɒbzəˈveɪʃənz/       | 观察           | ⭐⭐⭐    | observation(观察)的复数 |
+97 | upbringing       | n.     | /ˈʌpˌbrɪŋɪŋ/          | 成长，教养     | ⭐⭐⭐    | bring up(养育)的名词 |
+98 | passionately     | adv.   | /ˈpæʃənətli/          | 热情地         | ⭐⭐⭐    | passion(热情) + -ately(副词后缀) |
+99 | sustainable      | adj.   | /səˈsteɪnəbəl/        | 可持续的       | ⭐⭐⭐    | sustain(维持) + -able(形容词后缀) |
+100 | development      | n.     | /dɪˈvɛləpmənt/        | 发展           | ⭐⭐⭐    | develop(发展) + -ment(名词后缀) |
+101 | international    | adj.   | /ˌɪntəˈnæʃənl/        | 国际的         | ⭐⭐⭐    | nation(国家) + -al(形容词后缀) |
+102 | cooperation      | n.     | /kəʊˌɒpəˈreɪʃən/      | 合作           | ⭐⭐⭐    | cooperate(合作) + -ion(名词后缀) |
+103 | finally          | adv.   | /ˈfaɪnəli/            | 最后           | ⭐⭐⭐    | final(最后的) + -ly(副词后缀) |
+104 | tested           | v.     | /tɛstɪd/              | 测试           | ⭐⭐⭐    | test(测试)的过去分词 |
+105 | chemistry        | n.     | /ˈkemɪstri/           | 化学           | ⭐⭐⭐    | 联想：chemistry → 学科 |
+106 | biology          | n.     | /baɪˈɒlədʒi/          | 生物           | ⭐⭐⭐    | 联想：biology → 学科 |
+107 | encountered      | v.     | /ɪnˈkaʊntəd/          | 遇到           | ⭐⭐⭐    | encounter(遇到)的过去式 |
+108 | similar          | adj.   | /ˈsɪmɪlər/            | 相似的         | ⭐⭐⭐    | 联想：similar → 相同 |
+109 | faced            | v.     | /feɪst/               | 面对           | ⭐⭐⭐    | face(面对)的过去式 |
+110 | unexpected       | adj.   | /ˌʌnɪkˈspektɪd/       | 意想不到的     | ⭐⭐⭐    | un-(否定) + expected(预期的) |
+111 | challenges       | n.     | /ˈtʃælɪndʒɪz/         | 挑战           | ⭐⭐⭐    | challenge(挑战)的复数 |
+112 | calm             | adj.   | /kɑːm/                | 冷静的         | ⭐⭐⭐    | 联想：calm → 安静 |
+113 | worked           | v.     | /wɜːrkt/              | 工作           | ⭐⭐⭐    | work(工作)的过去式 |
+114 | systematically   | adv.   | /ˌsɪstəˈmætɪkli/      | 系统地         | ⭐⭐⭐    | system(系统) + -atically(副词后缀) |
+115 | final            | adj.   | /ˈfaɪnl/              | 最后的         | ⭐⭐⭐    | 联想：final → 结尾 |
+116 | bell             | n.     | /bel/                 | 铃，钟         | ⭐⭐⭐    | 联想：bell → 声音 |
+117 | mixture          | n.     | /ˈmɪkstʃər/           | 混合           | ⭐⭐⭐    | mix(混合) + -ture(名词后缀) |
+118 | relief           | n.     | /rɪˈliːf/             | 安慰，缓解     | ⭐⭐⭐    | 联想：relief → 放松 |
+119 | anxiety          | n.     | /æŋˈzaɪəti/           | 焦虑           | ⭐⭐⭐    | 联想：anxiety → 紧张 |
+120 | completed        | v.     | /kəmˈpliːtɪd/         | 完成           | ⭐⭐⭐    | complete(完成)的过去分词 |
+121 | limits           | n.     | /ˈlɪmɪts/             | 限制           | ⭐⭐⭐    | limit(限制)的复数 |
+122 | uncertainty      | n.     | /ʌnˈsɜːtənti/         | 不确定性       | ⭐⭐⭐    | uncertain(不确定的) + -ty(名词后缀) |
+123 | weighed          | v.     | /weɪd/                | 称重，权衡     | ⭐⭐⭐    | weigh(称重)的过去式 |
+124 | mind             | n.     | /maɪnd/               | 思维，头脑     | ⭐⭐⭐    | 联想：mind → 思考 |
+125 | results          | n.     | /rɪˈzʌlts/            | 结果           | ⭐⭐⭐    | result(结果)的复数 |
+126 | announced        | v.     | /əˈnaʊnst/            | 宣布           | ⭐⭐⭐    | announce(宣布)的过去式 |
+127 | weeks            | n.     | /wiːks/               | 周，星期       | ⭐⭐⭐    | week(周)的复数 |
+128 | returning        | v.     | /rɪˈtɜːnɪŋ/           | 返回           | ⭐⭐⭐    | return(返回)的现在分词 |
+129 | resume           | v.     | /rɪˈzjuːm/            | 恢复           | ⭐⭐⭐    | 联想：resume → 继续 |
+130 | normal           | adj.   | /ˈnɔːml/              | 正常的         | ⭐⭐⭐    | 联想：normal → 常规 |
+131 | routine          | n.     | /ruːˈtiːn/            | 日常，惯例     | ⭐⭐⭐    | 联想：routine → 规律 |
+132 | concentration    | n.     | /ˌkɒnsnˈtreɪʃən/      | 注意力，集中   | ⭐⭐⭐    | concentrate(集中) + -ion(名词后缀) |
+133 | proved           | v.     | /pruːvd/              | 证明           | ⭐⭐⭐    | prove(证明)的过去式 |
+134 | difficult        | adj.   | /ˈdɪfɪkəlt/           | 困难的         | ⭐⭐⭐    | 联想：difficult → 难 |
+135 | family           | n.     | /ˈfæməli/             | 家庭           | ⭐⭐⭐⭐⭐  | 联想：family → 家 |
+136 | friends          | n.     | /frɛndz/              | 朋友           | ⭐⭐⭐⭐⭐  | friend(朋友)的复数 |
+137 | constantly       | adv.   | /ˈkɒnstəntli/         | 不断地         | ⭐⭐⭐    | constant(持续的) + -ly(副词后缀) |
+138 | appreciated      | v.     | /əˈpriːʃieɪtɪd/       | 感激           | ⭐⭐⭐    | appreciate(感激)的过去分词 |
+139 | concern          | n./v.  | /kənˈsɜːn/            | 关心，担忧     | ⭐⭐⭐    | 联想：concern → 关注 |
+140 | support          | n./v.  | /səˈpɔːt/             | 支持           | ⭐⭐⭐    | 联想：support → 帮助 |
+141 | cold             | adj.   | /kəʊld/               | 寒冷的         | ⭐⭐⭐    | 联想：cold → 温度 |
+142 | morning          | n.     | /ˈmɔːrnɪŋ/            | 早晨           | ⭐⭐⭐⭐⭐  | 联想：morning → 时间 |
+143 | received         | v.     | /rɪˈsiːvd/            | 收到           | ⭐⭐⭐    | receive(收到)的过去分词 |
+144 | official         | adj.   | /əˈfɪʃl/              | 官方的         | ⭐⭐⭐    | office(办公室) + -ial(形容词后缀) |
+145 | envelope         | n.     | /ˈenvələʊp/           | 信封           | ⭐⭐⭐    | 联想：envelope → 包裹 |
+146 | hands            | n.     | /hændz/               | 手            | ⭐⭐⭐    | hand(手)的复数 |
+147 | trembled         | v.     | /ˈtrembəld/           | 颤抖           | ⭐⭐⭐    | tremble(颤抖)的过去式 |
+148 | opened           | v.     | /ˈəʊpənd/             | 打开           | ⭐⭐⭐    | open(打开)的过去式 |
+149 | congratulating   | v.     | /kənˈɡrætjʊleɪtɪŋ/    | 祝贺           | ⭐⭐⭐    | congratulate(祝贺)的现在分词 |
+150 | outstanding      | adj.   | /aʊtˈstændɪŋ/         | 杰出的         | ⭐⭐⭐    | stand out(突出)的形容词 |
+151 | informing        | v.     | /ɪnˈfɔːmɪŋ/           | 通知           | ⭐⭐⭐    | inform(通知)的现在分词 |
+152 | selected         | v.     | /sɪˈlektɪd/           | 选中           | ⭐⭐⭐    | select(选择)的过去分词 |
+153 | full             | adj.   | /fʊl/                 | 全额的，满的   | ⭐⭐⭐    | 联想：full → 完整 |
+154 | scholarship      | n.     | /ˈskɒləʃɪp/           | 奖学金         | ⭐⭐⭐    | scholar(学者) + -ship(名词后缀) |
+155 | attend           | v.     | /əˈtend/              | 参加，出席     | ⭐⭐⭐    | 联想：attend → 到场 |
+156 | prestigious      | adj.   | /preˈstɪdʒəs/         | 著名的         | ⭐⭐⭐    | prestige(声望) + -ous(形容词后缀) |
+157 | university       | n.     | /ˌjuːnɪˈvɜːsɪti/      | 大学           | ⭐⭐⭐    | 联想：universe(宇宙) + -ity(名词后缀) |
+158 | couldn't         | v.     | /ˈkʊdnt/              | 不能           | ⭐⭐⭐    | could(能)的否定式 |
+159 | believe          | v.     | /bɪˈliːv/             | 相信           | ⭐⭐⭐⭐   | 联想：believe → 信念 |
+160 | eyes             | n.     | /aɪz/                 | 眼睛           | ⭐⭐⭐    | eye(眼睛)的复数 |
+161 | read             | v.     | /riːd/                | 读            | ⭐⭐⭐⭐⭐  | 联想：read → 阅读 |
+162 | ensure           | v.     | /ɪnˈʃʊər/             | 确保           | ⭐⭐⭐    | 联想：ensure → 保证 |
+163 | misunderstood    | v.     | /ˌmɪsʌndəˈstʊd/       | 误解           | ⭐⭐⭐    | misunderstand(误解)的过去式 |
+164 | overcome         | v.     | /ˌəʊvəˈkʌm/           | 被...淹没      | ⭐⭐⭐    | 联想：overcome → 克服 |
+165 | joy              | n.     | /dʒɔɪ/                | 喜悦           | ⭐⭐⭐    | 联想：joy → 快乐 |
+166 | ran              | v.     | /ræn/                 | 跑            | ⭐⭐⭐    | run(跑)的过去式 |
+167 | share            | v.     | /ʃeə(r)/              | 分享          | ⭐⭐⭐    | 联想：share → 共同拥有 |
+168 | news             | n.     | /njuːz/               | 新闻，消息     | ⭐⭐⭐    | 联想：news → 信息 |
+169 | parents          | n.     | /ˈpeərənts/           | 父母           | ⭐⭐⭐⭐⭐  | parent(父母)的复数 |
+170 | cried            | v.     | /kraɪd/               | 哭泣           | ⭐⭐⭐    | cry(哭)的过去式 |
+171 | tears            | n.     | /tɪəz/                | 眼泪           | ⭐⭐⭐    | tear(眼泪)的复数 |
+172 | happiness        | n.     | /ˈhæpinəs/            | 幸福           | ⭐⭐⭐    | happy(快乐的) + -ness(名词后缀) |
+173 | jumped           | v.     | /dʒʌmpt/              | 跳跃           | ⭐⭐⭐    | jump(跳)的过去式 |
+174 | excitement       | n.     | /ɪkˈsaɪtmənt/         | 兴奋           | ⭐⭐⭐    | excite(激发) + -ment(名词后缀) |
+175 | neighbors        | n.     | /ˈneɪbərz/            | 邻居           | ⭐⭐⭐    | neighbor(邻居)的复数 |
+176 | celebration      | n.     | /ˌselɪˈbreɪʃən/      | 庆祝           | ⭐⭐⭐    | celebrate(庆祝) + -ion(名词后缀) |
+177 | offer            | v./n.  | /ˈɒfər/               | 提供，给予     | ⭐⭐⭐    | 联想：offer → 给予 |
+178 | congratulations  | n.     | /kənˌɡrætjʊˈleɪʃənz/  | 祝贺           | ⭐⭐⭐    | congratulate(祝贺)的复数 |
+179 | entire           | adj.   | /ɪnˈtaɪər/            | 整个的         | ⭐⭐⭐    | 联想：entire → 全部 |
+180 | achievement      | n.     | /əˈtʃiːvmənt/         | 成就           | ⭐⭐⭐    | achieve(实现) + -ment(名词后缀) |
+181 | village          | n.     | /ˈvɪlɪdʒ/             | 村庄           | ⭐⭐⭐⭐⭐  | 联想：village → 乡村 |
+182 | proud            | adj.   | /praʊd/               | 自豪的         | ⭐⭐⭐    | 联想：proud → 自信 |
+### 高频核心词汇 (High-Frequency Core Words)
 
-### Emotional Vocabulary (情感词汇):
-1. **butterflies** /ˈbʌtəflaɪz/ - 紧张不安（习语）
-2. **relief** /rɪˈliːf/ - 安慰，缓解
-3. **anxiety** /æŋˈzaɪəti/ - 焦虑
-4. **trembled** /ˈtrembəld/ - 颤抖
-5. **overcome** /ˌəʊvəˈkʌm/ - 被...淹没
-6. **incredible** /ɪnˈkredəbəl/ - 难以置信的
-7. **achievement** /əˈtʃiːvmənt/ - 成就
+#### 🎯 考试相关 (Exam-related)
+| 单词 | 词性 | 含义 | 记忆技巧 |
+|------|------|------|----------|
+| **test** | n./v. | 测试，考验 | 基础考试词汇，简洁明了 |
+| **examination** | n. | 考试，检查 | 正式的test，更学术化 |
+| **preparation** | n. | 准备 | prepare的名词形式 |
+| **intensive** | adj. | 密集的 | intense强烈的 + ive |
+| **anticipated** | v. | 预期 | anti预先 + cip抓住 |
 
-## Word Count Progress (词汇进度统计)
-- **Words introduced in Chapter 3**: ~135 CET-4 words
-- **Cumulative words used**: ~425 words
-- **Remaining words**: ~5,883 words
-- **Progress**: 6.7% complete
+#### 😰 情感状态 (Emotional States)
+| 单词 | 词性 | 含义 | 记忆技巧 |
+|------|------|------|----------|
+| **butterflies** | n. | 紧张感 | 习语：stomach里的蝴蝶 |
+| **nervous** | adj. | 紧张的 | nerve神经 + ous |
+| **overwhelmed** | adj. | 不知所措 | over超过 + whelm淹没 |
+| **incredible** | adj. | 难以置信 | in不 + credible可信 |
+| **relief** | n. | 缓解 | re再 + lief减轻 |
 
-## Next Chapter Preview (下章预告)
-In Chapter 4, we will follow Alex as he prepares to leave his village for university life in the big city. We will explore vocabulary related to departure, new environments, urban life, and the mixed emotions of leaving home.
+#### 🏢 地点场所 (Places)
+| 单词 | 词性 | 含义 | 记忆技巧 |
+|------|------|------|----------|
+| **center** | n. | 中心 | 美式拼写，英式centre |
+| **building** | n. | 建筑物 | build建造 + ing |
+| **provincial** | adj. | 省的 | province省 + ial形容词后缀 |
+| **massive** | adj. | 巨大的 | mass大量 + ive |
+| **located** | v. | 位于 | locate定位 + ed |
+
+---
+
+## 语法重点解析 (Grammar Analysis)
+
+### 1. 过去完成时 (Past Perfect)
+- **had anticipated, had practiced** - 表示过去的过去
+- 结构：had + 过去分词
+- 用法：表示在过去某时间前已完成的动作
+
+### 2. 被动语态变式 (Passive Voice Variations)
+- **was filled, were lined, was overwhelmed** - 各种被动形式
+- 不同时态的被动语态构成
+
+### 3. 现在分词作定语 (Present Participle as Attributive)
+- **living, moving, carrying** - 修饰名词，表示主动进行
+- 位置：可前置或后置
+
+### 4. 固定搭配和习语 (Fixed Expressions & Idioms)
+- **butterflies in stomach** - 紧张不安
+- **compared to** - 与...相比
+- **appeared to be** - 似乎是
+
+---
+
+## 记忆策略专练 (Memory Strategy Practice)
+
+### 🔄 词汇链接记忆
+1. **exam** → **examination** → **test** → **preparation**
+2. **nervous** → **butterflies** → **stomach** → **overwhelmed**
+3. **center** → **building** → **massive** → **modern**
+4. **crowd** → **gathered** → **observed** → **noticed**
+
+### 📊 同类词汇群组
+**地点类**: center, building, place, heart, outside
+**观察类**: observed, noticed, appeared, seemed, looked
+**情感类**: nervous, excited, overwhelmed, incredible, relief
+**携带类**: carrying, carried, filled, containing, packed
+
+### 🎭 情境记忆场景
+1. **考试中心场景**: massive modern building, examination center
+2. **人群观察场景**: gathered outside, observed crowd, various backgrounds  
+3. **情感体验场景**: butterflies in stomach, felt nervous, overwhelmed
+4. **地理描述场景**: provincial capital, located in heart, massive metropolitan
+
+---
+
+## 高级表达升级 (Advanced Expression Upgrade)
+
+### 描述地点 (Describing Places)
+- 基础：**big building** 
+- 提升：**massive modern building**
+- 高级：**enormous architectural complex**
+
+### 表达情感 (Expressing Emotions)
+- 基础：**scared**
+- 提升：**nervous, overwhelmed**  
+- 高级：**butterflies in stomach, anxiety-ridden**
+
+### 描述行为 (Describing Actions)
+- 基础：**looked at**
+- 提升：**observed, noticed**
+- 高级：**scrutinized, examined meticulously**
+
+---
+
+## 实用句型模板 (Practical Sentence Patterns)
+
+### 描述考试场景
+1. **The examination center was a massive modern building.**
+2. **Despite months of intensive preparation, he felt butterflies in his stomach.**
+3. **Hundreds of nervous students gathered outside the building.**
+
+### 表达情感变化  
+1. **He felt a mixture of relief and anxiety.**
+2. **Alex was overwhelmed by the sheer size of the building.**
+3. **The feeling of accomplishment was incredible.**
+
+### 描述观察和比较
+1. **Alex observed the crowd and noticed students from various backgrounds.**
+2. **The city appeared enormous compared to his quiet village.**
+3. **Some wore expensive clothes while others appeared more modest.**
+
+---
+
+## 文化内涵深度解读 (Cultural Depth Analysis)
+
+### 中国教育制度体现
+- **provincial capital** - 体现中国行政区划特色
+- **examination center** - 反映标准化考试制度
+- **various backgrounds** - 展现教育公平理念
+- **scholarship competition** - 显示人才选拔机制
+
+### 社会阶层观察  
+- **expensive clothes vs modest appearance** - 社会差异现实
+- **branded items** - 消费文化影响
+- **family expectations** - 传统价值观念
+
+### 个人成长历程
+- **leaving familiar environment** - 成长必经之路
+- **facing unknown challenges** - 勇气与适应能力
+- **mixed emotions** - 复杂心理状态的真实写照
+## 词汇应用练习设计 (Vocabulary Application Exercises)
+
+### 📝 填空练习
+1. The _____ (examination) was held in a _____ (massive) modern building.
+2. Despite intensive _____ (preparation), he felt _____ (butterflies) in his stomach.
+3. Students from _____ (various) backgrounds _____ (gathered) outside.
+
+### 🎯 选词填空  
+**words: observed, noticed, appeared, seemed**
+1. Alex _____ the busy scene around him.
+2. Some students _____ confident about their performance.
+3. He _____ that people wore different types of clothing.
+4. The building _____ enormous from the outside.
+
+### 💭 句子重组
+重新排列单词组成正确句子：
+1. **building / massive / center / the / examination / a / was**
+2. **various / students / backgrounds / from / gathered / outside**
+3. **butterflies / felt / stomach / his / he / in**
+
+### 🗣️ 口语表达练习
+用本章词汇描述：
+1. 你参加重要考试前的心情
+2. 第一次到大城市的感受  
+3. 观察考试现场的情景
+
+## 扩展阅读建议 (Extended Reading Suggestions)
+
+### 📚 相关主题文章
+1. **Educational Systems** - 了解不同国家的教育制度
+2. **Urban vs Rural Life** - 城乡生活对比
+3. **Test Anxiety Management** - 考试焦虑应对方法
+4. **Cultural Diversity in Education** - 教育中的文化多样性
+
+### 🎬 多媒体学习资源
+1. **Documentary**: "Education in Modern China"
+2. **TED Talks**: "Overcoming Test Anxiety"  
+3. **Movies**: Films about student life and education
+4. **Podcasts**: Stories about rural students in universities
+
+### 📖 相关书籍推荐
+1. **"The Testing Season"** - About standardized testing
+2. **"Rural Education Chronicles"** - Stories from countryside  
+3. **"City Dreams, Village Roots"** - Urban-rural transition stories

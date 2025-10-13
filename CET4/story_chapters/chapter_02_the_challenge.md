@@ -55,27 +55,8 @@ Emma**仔细地****看了看**这个**问题**，尽管她**理解不了**。**�
 
 ## Vocabulary Highlights (词汇重点)
 
-### Key Words Used in This Chapter (本章使用的关键词汇):
-1. **examination** /ɪɡˌzæmɪˈneɪʃən/ - 考试
-2. **scheduled** /ˈʃedjuːld/ - 安排，预定
-3. **competition** /ˌkɒmpəˈtɪʃən/ - 竞争
-4. **fierce** /fɪəs/ - 激烈的
-5. **participate** /pɑːˈtɪsɪpeɪt/ - 参加
-6. **pressure** /ˈpreʃə/ - 压力
-7. **failure** /ˈfeɪljə/ - 失败
-8. **immediately** /ɪˈmiːdiətli/ - 立即
-9. **developing** /dɪˈveləpɪŋ/ - 制定，发展
-10. **strict** /strɪkt/ - 严格的
-11. **schedule** /ˈʃedjuːl/ - 计划，时间表
-12. **comprehension** /ˌkɒmprɪˈhenʃən/ - 理解
-13. **dedication** /ˌdedɪˈkeɪʃən/ - 专注，奉献
-14. **strategies** /ˈstrætədʒiz/ - 策略
-15. **consistently** /kənˈsɪstəntli/ - 坚持地
-16. **determination** /dɪˌtɜːmɪˈneɪʃən/ - 决心
-17. **particularly** /pəˈtɪkjələli/ - 特别地
-18. **frustration** /frʌˈstreɪʃən/ - 挫折感
-19. **innocently** /ˈɪnəsəntli/ - 天真地
-20. **accomplishment** /əˈkʌmplɪʃmənt/ - 成就
+### 核心词汇统计
+- **总词汇数**: 140个CET-4词汇
 
 ### 详细词汇表 (Detailed Vocabulary List)
 | 序号 | 单词           | 词性   | 音标                | 中文释义     | 四级级别 | 记忆提示 |
@@ -245,11 +226,162 @@ Emma**仔细地****看了看**这个**问题**，尽管她**理解不了**。**�
 | 163  | accomplishment  | n.     | /əˈkʌmplɪʃmənt/       | 成就           | ⭐⭐⭐    | accomplish(完成) + -ment(名词后缀) |
 | 164  | incredible      | adj.   | /ɪnˈkrɛdəbl/          | 难以置信的     | ⭐⭐⭐    | in-(否定) + credible(可信的) |
 
-## Word Count Progress (词汇进度统计)
-- **Words introduced in Chapter 2**: ~140 CET-4 words
-- **Cumulative words used**: ~290 words
-- **Remaining words**: ~6,018 words
-- **Progress**: 4.6% complete
+### 🎯 学习类词汇
+| 单词 | 词性 | 含义 | 记忆提示 |
+|------|------|------|----------|
+| **scholarship** | n. | 奖学金 | scholar(学者) + ship(身份) |
+| **examination** | n. | 考试 | 正式的exam，更学术 |
+| **competition** | n. | 竞争 | compete竞争 + tion名词后缀 |
+| **prepare** | v. | 准备 | pre预先 + pare准备 |
+| **participate** | v. | 参加 | part部分 + icipate参与 |
+| **study** | v./n. | 学习 | 基础学习动词 |
+
+#### 😊 情感类词汇  
+| 单词 | 词性 | 含义 | 记忆提示 |
+|------|------|------|----------|
+| **excited** | adj. | 兴奋的 | excite使兴奋 + ed |
+| **nervous** | adj. | 紧张的 | nerve神经 + ous |
+| **proud** | adj. | 自豪的 | 正面情感形容词 |
+| **worried** | adj. | 担心的 | worry担心 + ed |
+| **fear** | n./v. | 害怕 | 基础情感词汇 |
+
+#### ⏰ 时间类词汇
+| 单词 | 词性 | 含义 | 记忆提示 |
+|------|------|------|----------|
+| **December** | n. | 十二月 | Dec.缩写，第12月 |
+| **months** | n. | 月份 | month的复数形式 |
+| **during** | prep. | 在...期间 | 时间介词 |
+| **immediately** | adv. | 立即 | immediate立刻的 + ly |
+
+---
+
+## 语法结构分析 (Grammar Analysis)
+
+### 1. 情态动词运用
+- **would, might, could** - 表示推测和可能性
+- **should** - 表示建议和义务
+- 记忆：情态动词 + 动词原形
+
+### 2. 时间状语从句
+- **when, while, after, before** - 时间连接词
+- 例句：When the exam was scheduled...
+
+### 3. 被动语态
+- **was scheduled, would be announced** - 被动结构
+- 构成：be动词 + 过去分词
+
+### 4. 现在分词作定语
+- **developing, growing, learning** - 表示进行状态
+- 位置：名词前后均可
+
+---
+
+## 记忆策略专项 (Memory Strategies)
+
+### 🎭 情境记忆法
+1. **考试情境**: scholarship, examination, competition
+2. **情感变化**: excited → nervous → worried → proud
+3. **时间进程**: December → months → during → immediately
+4. **家庭支持**: parents, advised, proud, worried
+
+### 🔄 词汇复现记忆
+1. **prepare** → **preparation** (动词→名词)
+2. **compete** → **competition** (动词→名词) 
+3. **develop** → **developing** (动词→进行时)
+4. **examine** → **examination** (动词→名词)
+
+### 📊 对比记忆组
+1. **excited** vs **nervous** (兴奋 vs 紧张)
+2. **success** vs **failure** (成功 vs 失败)
+3. **important** vs **valuable** (重要的 vs 珍贵的)
+4. **immediately** vs **during** (立即 vs 期间)
+
+### 💭 联想记忆链
+1. **scholarship** → **examination** → **competition** → **pressure**
+2. **excited** → **nervous** → **worried** → **fear** → **failure**
+3. **prepare** → **study** → **schedule** → **strict** → **developing**
+
+---
+
+## 高级语言点 (Advanced Language Points)
+
+### 固定搭配 (Fixed Collocations)
+1. **take part in** = **participate in** (参加)
+2. **be proud of** (为...自豪)
+3. **be worried about** (为...担心)
+4. **prepare for** (为...准备)
+5. **compete with/against** (与...竞争)
+
+### 同义词辨析 (Synonym Differentiation)  
+1. **exam** vs **examination** (考试：口语 vs 正式)
+2. **contest** vs **competition** (比赛：活动 vs 竞争)
+3. **chance** vs **opportunity** (机会：偶然 vs 良机)
+4. **scared** vs **nervous** (害怕：恐惧 vs 紧张)
+
+### 词汇升级 (Vocabulary Upgrading)
+1. **good** → **excellent** → **outstanding**
+2. **big** → **huge** → **enormous** 
+3. **happy** → **excited** → **thrilled**
+4. **hard** → **strict** → **rigorous**
+
+---
+
+## 文化内涵解读 (Cultural Connotations)
+
+### 中国教育文化
+- **scholarship** - 体现教育公平，农村学生机会
+- **competition** - 反映中国教育竞争激烈现状  
+- **parents proud** - 家长对子女教育成就的重视
+- **pressure** - 学业压力是中国学生普遍面临的问题
+
+### 价值观体现
+- **hard work** - 勤奋努力的传统价值观
+- **never give up** - 坚持不懈的品格培养
+- **family support** - 家庭在教育中的重要作用
+- **fear of failure** - 对失败的认知和态度
+
+---
+
+## 实用表达句型 (Practical Expressions)
+
+### 描述感受
+1. **I feel both excited and nervous.** (我感到既兴奋又紧张)
+2. **My parents are extremely proud.** (我的父母非常自豪)
+3. **I'm worried about the pressure.** (我担心压力)
+
+### 表达时间
+1. **The exam is scheduled for December.** (考试安排在12月)
+2. **I have only three months to prepare.** (我只有三个月时间准备)
+3. **During the preparation process...** (在准备过程中...)
+
+### 提建议
+1. **Remember that winning is important.** (记住获胜很重要)
+2. **Don't let fear prevent you from trying.** (不要让恐惧阻止你尝试)
+3. **You should develop a strict schedule.** (你应该制定严格的计划)
+
+---
+
+## 课后练习建议 (Practice Suggestions)
+
+### 📝 写作练习
+1. 用本章20个重点词汇写一篇关于"备考经历"的短文
+2. 描述一次重要考试前的心理变化过程
+3. 给朋友写一封关于学习计划的建议信
+
+### 🗣️ 口语练习  
+1. 用所学词汇描述自己的考试经历
+2. 角色扮演：家长与孩子关于考试压力的对话
+3. 讨论：如何克服考试前的紧张情绪
+
+### 👂 听力练习
+1. 听相关题材的英语新闻或故事
+2. 关注词汇在实际语境中的使用
+3. 模仿语音语调，提高口语表达
+
+### 📚 阅读扩展
+1. 阅读更多关于教育、竞争的英语文章  
+2. 关注同类词汇在不同语境中的运用
+3. 积累相关话题的表达方式和观点
 
 ## Next Chapter Preview (下章预告)
 In Chapter 3, we will witness Alex's examination day and the results that will change his life forever. We will explore vocabulary related to emotions, test-taking, success, and life-changing decisions.

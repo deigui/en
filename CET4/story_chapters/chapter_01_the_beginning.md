@@ -1,43 +1,53 @@
 # Chapter 1: The Beginning of a Journey
 # 第一章：旅程的开始
 
-## English Version (英文版本)
+## 故事背景设定
 
 In a **peaceful** **village** **surrounded** by **green** **mountains** and **clear** **rivers**, there **lived** a **young** **boy** **named** Alex. His **family** was **neither** **rich** **nor** **poor**, but they **possessed** something **more** **valuable** than **money** - **love**, **kindness**, and **wisdom**.
 
-Alex's **father** was a **hardworking** **farmer** who **taught** him the **importance** of **patience** and **responsibility**. Every **morning**, **before** the **sun** **rose**, his **father** would **wake** him **up** and **together** they would **walk** to the **fields**. "**Success**," his **father** would **say**, "**comes** to **those** who **never** **give** **up** and **always** **believe** in **themselves**."
-
-His **mother** was a **gentle** **woman** who **worked** as a **teacher** in the **local** **school**. She **always** **encouraged** Alex to **study** **hard** and **dream** **big**. "**Education**," she would **remind** him, "is the **key** to **unlock** all **doors** in **life**. **Knowledge** **gives** you **power**, and **power** **gives** you **freedom**."
-
-Alex had one **younger** **sister** **named** Emma, who was **seven** **years** **old** and **full** of **energy**. She **loved** to **ask** **questions** about **everything** - from **why** the **sky** was **blue** to **how** **birds** could **fly**. **Sometimes** her **endless** **curiosity** **annoyed** Alex, but **deep** **down**, he **admired** her **enthusiasm** for **learning**.
-
-The **village** **school** was **small** but **well-equipped** with **modern** **technology**. Alex's **favorite** **subject** was **English**, **though** he **struggled** with **pronunciation** at **first**. His **teacher**, Mrs. Johnson, was **patient** and **helpful**. She **often** **stayed** **after** **class** to **help** **students** **improve** their **language** **skills**.
-
-"**Language**," Mrs. Johnson **explained**, "is **not** **just** **about** **grammar** and **vocabulary**. It's a **bridge** that **connects** **people** from **different** **cultures** and **backgrounds**. **When** you **master** a **language**, you **open** a **window** to the **world**."
-
-Alex **decided** to **take** her **advice** **seriously**. He **began** to **read** **English** **books**, **watch** **English** **movies**, and **practice** **speaking** with **foreign** **tourists** who **occasionally** **visited** their **village**. His **pronunciation** **gradually** **improved**, and his **confidence** **grew**.
-
-One **autumn** **day**, **when** the **leaves** were **turning** **golden** and the **air** was **crisp**, Alex **received** **exciting** **news**. The **government** had **announced** a **scholarship** **program** for **outstanding** **students** from **rural** **areas**. The **scholarship** would **cover** all **expenses** for **university** **education** in the **capital** **city**.
-
-## Chinese Translation (中文翻译)
-
 在一个被**青山**和**清澈河流**环绕的**宁静村庄**里，住着一个叫Alex的**年轻男孩**。他的**家庭**既不**富裕**也不**贫穷**，但他们拥有比**金钱**更**珍贵**的东西——**爱**、**善良**和**智慧**。
+
+Alex's **father** was a **hardworking** **farmer** who **taught** him the **importance** of **patience** and **responsibility**. Every **morning**, **before** the **sun** **rose**, his **father** would **wake** him **up** and **together** they would **walk** to the **fields**. "**Success**," his **father** would **say**, "**comes** to **those** who **never** **give** **up** and **always** **believe** in **themselves**."
 
 Alex的**父亲**是一个**勤劳**的**农民**，教给他**耐心**和**责任感**的**重要性**。每天**早晨**，在**太阳**升起之前，他的**父亲**就会**叫醒**他，然后他们一起**走向**田地。"**成功**，"他的**父亲**会说，"**属于**那些**永不放弃**并**始终相信**自己的人。"
 
+His **mother** was a **gentle** **woman** who **worked** as a **teacher** in the **local** **school**. She **always** **encouraged** Alex to **study** **hard** and **dream** **big**. "**Education**," she would **remind** him, "is the **key** to **unlock** all **doors** in **life**. **Knowledge** **gives** you **power**, and **power** **gives** you **freedom**."
+
 他的**母亲**是一位**温柔**的**女性**，在**当地学校**当**老师**。她总是**鼓励**Alex**努力学习**，**勇敢追梦**。"**教育**，"她会**提醒**他，"是**打开**人生所有**大门**的**钥匙**。**知识**给你**力量**，**力量**给你**自由**。"
+
+Alex had one **younger** **sister** **named** Emma, who was **seven** **years** **old** and **full** of **energy**. She **loved** to **ask** **questions** about **everything** - from **why** the **sky** was **blue** to **how** **birds** could **fly**. **Sometimes** her **endless** **curiosity** **annoyed** Alex, but **deep** **down**, he **admired** her **enthusiasm** for **learning**.
 
 Alex有一个叫Emma的**妹妹**，**七岁**，**充满活力**。她**喜欢**对**一切事物**提**问题**——从**天空**为什么是**蓝色**的到**鸟儿**如何**飞翔**。**有时候**她**无止境**的**好奇心**会让Alex**烦恼**，但**内心深处**，他**钦佩**她对**学习**的**热情**。
 
+The **village** **school** was **small** but **well-equipped** with **modern** **technology**. Alex's **favorite** **subject** was **English**, **though** he **struggled** with **pronunciation** at **first**. His **teacher**, Mrs. Johnson, was **patient** and **helpful**. She **often** **stayed** **after** **class** to **help** **students** **improve** their **language** **skills**.
+
 **村庄学校**虽然**小**，但配备了**现代技术**设施。Alex最**喜欢**的**科目**是**英语**，尽管他**起初**在**发音**方面有**困难**。他的**老师**Johnson夫人很**有耐心**且**乐于助人**。她经常**课后留下**来帮助**学生**提高他们的**语言技能**。
+
+"**Language**," Mrs. Johnson **explained**, "is **not** **just** **about** **grammar** and **vocabulary**. It's a **bridge** that **connects** **people** from **different** **cultures** and **backgrounds**. **When** you **master** a **language**, you **open** a **window** to the **world**."
 
 "**语言**，"Johnson夫人**解释说**，"不仅仅是**语法**和**词汇**。它是连接**不同文化**和**背景**的人们的**桥梁**。当你**掌握**一门**语言**时，你就**打开**了通向**世界**的**窗户**。"
 
+Alex **decided** to **take** her **advice** **seriously**. He **began** to **read** **English** **books**, **watch** **English** **movies**, and **practice** **speaking** with **foreign** **tourists** who **occasionally** **visited** their **village**. His **pronunciation** **gradually** **improved**, and his **confidence** **grew**.
+
 Alex**决定****认真对待**她的**建议**。他**开始**阅读**英语书籍**，观看**英语电影**，并与**偶尔**到访他们**村庄**的**外国游客**练习**口语**。他的**发音**逐渐**改善**，**自信心**也**增长**了。
+
+One **autumn** **day**, **when** the **leaves** were **turning** **golden** and the **air** was **crisp**, Alex **received** **exciting** **news**. The **government** had **announced** a **scholarship** **program** for **outstanding** **students** from **rural** **areas**. The **scholarship** would **cover** all **expenses** for **university** **education** in the **capital** **city**.
 
 一个**秋天**的日子，当**树叶**变成**金黄色**，**空气**变得**清爽**时，Alex收到了**令人兴奋**的**消息**。**政府**宣布了一个针对**农村地区****优秀学生**的**奖学金计划**。这个**奖学金**将**承担****首都城市****大学教育**的所有**费用**。
 
 ## Vocabulary Highlights (词汇重点)
+### 陌生词汇
+| 序号 | 单词 | 词性 | 音标 | 中文释义 | 四级级别 | 记忆提示 |
+|------|------|------|------|----------|----------|----------|
+| 1 | energy | n. | /ˈɛnərdʒi/ | 能量，精力 | ⭐⭐⭐ | 联想：energetic(精力充沛的) |
+| 2 | annoyed | adj. | /əˈnɔɪd/ | 恼怒的，烦恼的 | ⭐⭐⭐ | 联想：annoy(使烦恼) + -ed(形容词后缀) = 感到烦恼的 |
+| 3 | admired| adj. | /ədˈmaɪərd/ | 钦佩的，羡慕的 | ⭐⭐⭐ | 联想：admire(钦佩) + -ed(形容词后缀) = 感到钦佩的|
+| 4 | enthusiasm| n. | /ɪnˈθuːziæzəm/ | 热情，热忱 | ⭐⭐⭐ | 联想：enthusiastic(热情的) + -ism(名词后缀) = 热情状态 |
+|5 | seriously|adv.|/ˈsɪriəsli/|认真地，严肃地|⭐⭐⭐|联想：serious(严肃的) + -ly(副词后缀) = 认真地|
+|6 |occasionally|adv.|/əˈkeɪʒənəli/|偶尔，间或|⭐⭐⭐|联想：occasion(场合) + -ally(副词后缀) = 偶尔|
+|7|crisp|adj.|/krɪsp/|清爽的，脆的|⭐⭐⭐|联想：crisp → 清新，脆脆的|
+|8|outstanding|adj.|/ˌaʊtˈstændɪŋ/|杰出的，突出的|⭐⭐⭐|联想：out(外) + standing(站立) = 突出的|
+|9|rural|adj.|/ˈrʊrəl/|农村的，乡村的|⭐⭐⭐|联想：rural → 乡村的|
 ### 核心词汇统计
 - **总词汇数**: 150个CET-4词汇
 ### 详细词汇表 (Detailed Vocabulary List)

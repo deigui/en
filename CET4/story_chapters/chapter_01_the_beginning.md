@@ -50,6 +50,10 @@ One **autumn** **day**, **when** the **leaves** were **turning** **golden** and 
 |9|rural|adj.|/ˈrʊrəl/|农村的，乡村的|⭐⭐⭐|联想：rural → 乡村的|
 ### 核心词汇统计
 - **总词汇数**: 150个CET-4词汇
+- 四级级别说明：
+  3⭐：高频基础词（如：student, room, study, library, university, parents, help, make, first, day, etc.）
+  4⭐：中频核心词（如：registration, administration, literature, translation, cafeteria, atmosphere, advice, science, etc.）
+  5⭐：低频难词/学术词（如：meticulously, contemporary, linguistics, demanding, specialties, magnificent, gradually, etc.）
 ### 详细词汇表 (Detailed Vocabulary List)
 | 序号 | 单词 | 词性 | 音标 | 中文释义 | 四级级别 | 记忆提示 |
 |------|------|------|------|----------|----------|----------|

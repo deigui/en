@@ -1,7 +1,7 @@
 # Chapter 2: The Challenge Ahead
 # 第二章：前方的挑战
 
-## English Version (英文版本)
+## 故事背景设定
 
 
 The **scholarship** **examination** was **scheduled** for **December**, which **meant** Alex had **only** **three** **months** to **prepare**. The **competition** would be **fierce**, as **hundreds** of **students** from **across** the **country** would **participate**. Alex **felt** both **excited** and **nervous** about this **opportunity**.
@@ -53,7 +53,10 @@ Her **simple** **wisdom** **surprised** Alex. He **realized** that his **seven-y
 
 ### 核心词汇统计
 - **总词汇数**: 140个CET-4词汇
-
+- 四级级别说明：
+  3⭐：高频基础词（如：student, room, study, library, university, parents, help, make, first, day, etc.）
+  4⭐：中频核心词（如：registration, administration, literature, translation, cafeteria, atmosphere, advice, science, etc.）
+  5⭐：低频难词/学术词（如：meticulously, contemporary, linguistics, demanding, specialties, magnificent, gradually, etc.）
 ### 详细词汇表 (Detailed Vocabulary List)
 | 序号 | 单词           | 词性   | 音标                | 中文释义     | 四级级别 | 记忆提示 |
 |------|----------------|--------|---------------------|--------------|----------|----------|
